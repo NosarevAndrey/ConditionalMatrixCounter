@@ -4,7 +4,7 @@ namespace ConditionalMatrixCounter
 {
 	internal class Program
 	{
-		static void Main(string[] args)
+		static void Main(string[] args) 
 		{
 
             static bool condition(double num) => num > 0.5;
